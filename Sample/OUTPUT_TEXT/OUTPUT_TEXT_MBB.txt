@@ -1,0 +1,122 @@
+URUSNIAGA AKAUN/ 戶口進支項/ACCOUNT TRANSACTIONS
+TARIKH MASUK
+BUTIR URUSNIAGA
+JUMLAH URUSNIAGA
+BAKI PENYATA
+進支日期
+進支項說明
+银碼
+結單存餘
+ENTRY DATE
+TRANSACTION DESCRIPTION
+TRANSACTION AMOUNT
+STATEMENT BALANCE
+BEGINNING BALANCE
+1,033.00
+01/02/25
+PYMT FROM A/C
+26.00-
+1,007.00
+   GRABPAY MALAYSIA   *
+   PxYPbi6j5rDp8dpuDfuH
+   DfuH1738374304
+01/02/25
+PYMT FROM A/C
+20.00-
+987.00
+   GRABPAY MALAYSIA   *
+   5eztlGQBGs9oyi6TS8bx
+01/02/25
+FUND TRANSFER TO A/
+34.00+
+1,021.00
+   JAMUNA RANI A/P SHA*
+   819728601Q
+   MAE QR
+01/02/25
+FUND TRANSFER TO A/
+300.00+
+1,321.00
+   TAN MEI YEE        *
+   CNY 1
+01/02/25
+IBK FUND TFR FR A/C
+199.00-
+1,122.00
+   CHAN FURNITURE(M) S*
+   Payment
+   MBB CT
+01/02/25
+TRANSFER FROM A/C
+880.00-
+242.00
+   ANEELRAJ SINGH A/L *
+   Payment
+01/02/25
+SALE DEBIT
+85.00-
+157.00
+   COWAY RPS - GP     *
+   KUALA LUMPUR, MYS
+   SALE DEBIT
+01/02/25
+IBK FUND TFR FR A/C
+50.00-
+107.00
+   NK GLOBAL SERVICES *
+   Payment
+   MBB CT
+01/02/25
+FUND TRANSFER TO A/
+1,000.00+
+1,107.00
+   UGENTHIRAN AL KRISH*
+   Payment
+   To Nirosh
+01/02/25
+TRANSFER FROM A/C
+1,000.00-
+107.00
+   NUR HANIS BINTI MOH*
+   Payment
+02/02/25
+IBK FUND TFR TO A/C
+200.00+
+307.00
+   NK GLOBAL SERVICES *
+   Fund Transfer
+   MBB CT-
+Malayan Banking Berhad (3813-K)
+14th Floor,Menara Maybank,100 Jalan Tun Perak,50050,Kuala Lumpur,Malaysia
+000001
+SLIM RIVER
+NIROSH KUMAR A/L VIJAYAKUMAR
+NO 59 JALAN DHANAPAKIA DEVI 2 ,TAMAN
+TAYTON VIEW ,KL WP ,56000 ,WP KUALA
+LUMPUR ,MYS
+MUKA/ 頁/PAGE
+:
+1
+TARIKH PENYATA
+結單日期
+STATEMENT DATE
+:
+28/02/25
+NOMBOR AKAUN
+戶號
+ACCOUNT
+NUMBER
+:
+108150-073879
+PROTECTED BY PIDM UP TO RM250,000 FOR EACH DEPOSITOR
+SAVINGS ACCOUNT
+Perhation / Note
+(1)
+Semua maklumat dan baki yang dinyatakan di sini akan dianggap betul melainkan Bank telah dimaklumkan secara bertulis tentang sebarang ketidaktepatan dalam
+tempoh 21 hari.
+若银行在21天内未获得书面通知于任何差异，所有显示的账项及余额将被视为正确。
+All items and balances shown will be considered correct unless the Bank is notified in writing of any discrepancies within 21 days.
+(2)
+Sila beritahu kami sebarang pertukaran alamat secara bertulis.
+請通知本行在何地址更换。
+Please notify us of any change of address in writing.

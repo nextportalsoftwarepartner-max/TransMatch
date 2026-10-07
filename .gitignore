@@ -1,0 +1,24 @@
+﻿# dependencies / build output
+venv/
+.venv/
+node_modules/
+build/
+dist/
+__pycache__/
+*.pyc
+
+# secrets
+.env
+*.env
+
+# large media / models (GitHub 100MB limit)
+*.mp4
+ml_libraries/
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# nested repo metadata
+.git/
+.git_nested_tmp/

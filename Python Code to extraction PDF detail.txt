@@ -1,0 +1,61 @@
+import re
+from PyPDF2 import PdfReader
+
+def extract_transaction_data(pdf_path):
+    # Load the PDF
+    reader = PdfReader(pdf_path)
+    data = []
+
+    # Regular expression to match transaction lines
+    transaction_pattern = re.compile(r"(\d{2}/\d{2})\s+([\d,]+\.\d+[-+])\s+([\d,]+\.\d+)")
+    
+    # Split description continuation lines
+    description_pattern = re.compile(r"^\s+(.*)$")
+    
+    current_transaction = None  # To hold ongoing transaction
+    multiline_description = []  # To capture multi-line descriptions
+
+    for page in reader.pages:
+        text = page.extract_text().splitlines()  # Process line by line
+
+        for line in text:
+            transaction_match = transaction_pattern.search(line)
+            description_match = description_pattern.match(line)
+
+            if transaction_match:
+                # If a transaction line is matched, finalize the ongoing transaction
+                if current_transaction:
+                    # Join multi-line descriptions
+                    current_transaction["description"] = " ".join(multiline_description).strip()
+                    data.append(current_transaction)
+                    multiline_description = []
+
+                # Extract new transaction details
+                entry_date, transaction_amount, account_balance = transaction_match.groups()
+                current_transaction = {
+                    "entry_date": entry_date,
+                    "description": "",  # Will be updated after processing continuation lines
+                    "transaction_amount": float(transaction_amount.replace(",", "").replace("+", "").replace("-", "")),
+                    "amount_type": "Credit" if "+" in transaction_amount else "Debit",
+                    "account_balance": float(account_balance.replace(",", ""))
+                }
+            elif description_match:
+                # If it's a continuation line, add it to the description buffer
+                multiline_description.append(description_match.group(1))
+
+        # Finalize the last transaction in the page
+        if current_transaction:
+            current_transaction["description"] = " ".join(multiline_description).strip()
+            data.append(current_transaction)
+            current_transaction = None
+            multiline_description = []
+
+    return data
+
+# Example usage
+if __name__ == "__main__":
+    pdf_path = "MBBcurrent_560072584191_2024-10-31.pdf"  # Replace with the correct path to your PDF
+    transactions = extract_transaction_data(pdf_path)
+    
+    for transaction in transactions:
+        print(transaction)

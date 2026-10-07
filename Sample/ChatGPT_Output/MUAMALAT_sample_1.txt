@@ -1,0 +1,268 @@
+[INFO] Trying full PDF upload...
+{
+  "Document Info": {
+    "Bank": "Bank Muamalat",
+    "Customer Name": "EZZAFEA AGENCY",
+    "Account Number": "12020002957715",
+    "Branch": "PKNS SHAH ALAM",
+    "Product": "QARDCA NON_INDV 1RCH",
+    "Statement Period": "1/07/2024 - 31/07/2024",
+    "Currency": "MYR"
+  },
+  "Transactions": [
+    {
+      "trn_pdf_date": "4/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "INSURANS REBAN P BUN",
+      "trn_pdf_ner": "INSURANS REBAN P BUN",
+      "trn_pdf_CR_Amount": "1,650.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "1,711.02"
+    },
+    {
+      "trn_pdf_date": "4/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "AN NAAFI V ENTERPRISE",
+      "trn_pdf_ner": "AN NAAFI V ENTERPRISE",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "1,650.00",
+      "trn_pdf_statementBalance": "61.02"
+    },
+    {
+      "trn_pdf_date": "6/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "Rtax",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "7,000.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "13,022.42"
+    },
+    {
+      "trn_pdf_date": "6/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_ner": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_CR_Amount": "6,000.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "6,022.42"
+    },
+    {
+      "trn_pdf_date": "6/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "GI-MSU/2407-01",
+      "trn_pdf_ner": "MANAGEMENT AND SCIENCE UNIVERS",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "6,000.00",
+      "trn_pdf_statementBalance": "22.42"
+    },
+    {
+      "trn_pdf_date": "9/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "Fund",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "100.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "122.42"
+    },
+    {
+      "trn_pdf_date": "9/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_ner": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "100.00",
+      "trn_pdf_statementBalance": "22.42"
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "Reserve",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "9,000.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "9,783.37"
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "Fund",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "9,000.00",
+      "trn_pdf_statementBalance": "783.37"
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "AMINUDDIN BIN YUSOF AIZUDDIN",
+      "trn_pdf_ner": "AMINUDDIN BIN YUSOF AIZUDDIN",
+      "trn_pdf_CR_Amount": "1,000.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "1,083.37"
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "Insuran reban",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "2,140.35",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "5,660.77"
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "Ayam gemok enterprise",
+      "trn_pdf_ner": "Ayam gemok enterprise",
+      "trn_pdf_CR_Amount": "2,500.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "4,660.77"
+    },
+    {
+      "trn_pdf_date": "13/07/24",
+      "trn_pdf_description": "ATM WITHDRAWAL-DEMAN",
+      "trn_pdf_description_others": "ENCIK REZQA BIN HUSIN@ ABDULLA",
+      "trn_pdf_ner": "ENCIK REZQA BIN HUSIN@ ABDULLA",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "2,140.35",
+      "trn_pdf_statementBalance": "2,520.42"
+    },
+    {
+      "trn_pdf_date": "15/07/24",
+      "trn_pdf_description": "Direct Debit",
+      "trn_pdf_description_others": "Rtax",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "2,500.00",
+      "trn_pdf_statementBalance": "20.42"
+    },
+    {
+      "trn_pdf_date": "17/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_ner": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_CR_Amount": "390.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "120.42"
+    },
+    {
+      "trn_pdf_date": "17/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "PV2407-137",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "390.00",
+      "trn_pdf_statementBalance": "405.42"
+    },
+    {
+      "trn_pdf_date": "19/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "CF-SME/2407-01",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "100.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "15.42"
+    },
+    {
+      "trn_pdf_date": "19/07/24",
+      "trn_pdf_description": "DR TRF/SAL/MISC/AFT",
+      "trn_pdf_description_others": "YC CAPITAL SDN BHD",
+      "trn_pdf_ner": "YC CAPITAL SDN BHD",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "100.00",
+      "trn_pdf_statementBalance": "115.42"
+    },
+    {
+      "trn_pdf_date": "19/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "SEMUAMAS RESOURCES SDN BHD",
+      "trn_pdf_ner": "SEMUAMAS RESOURCES SDN BHD",
+      "trn_pdf_CR_Amount": "285.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "265.42"
+    },
+    {
+      "trn_pdf_date": "19/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "EL-124916-1001",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "100.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "1,265.42"
+    },
+    {
+      "trn_pdf_date": "19/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "Ofis loan",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "1,100.00",
+      "trn_pdf_statementBalance": "165.42"
+    },
+    {
+      "trn_pdf_date": "22/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_ner": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_CR_Amount": "190.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "355.42"
+    },
+    {
+      "trn_pdf_date": "22/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "22A 1F",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "189.30",
+      "trn_pdf_statementBalance": "166.12"
+    },
+    {
+      "trn_pdf_date": "25/07/24",
+      "trn_pdf_description": "FPX DEBIT",
+      "trn_pdf_description_others": "SIMPLE APPROACH SDN BHD",
+      "trn_pdf_ner": "SIMPLE APPROACH SDN BHD",
+      "trn_pdf_CR_Amount": "100.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "66.12"
+    },
+    {
+      "trn_pdf_date": "29/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "Recovery Comm",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "355.71",
+      "trn_pdf_statementBalance": "421.83"
+    },
+    {
+      "trn_pdf_date": "30/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "Fund Transfer",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": "390.00",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "31.83"
+    },
+    {
+      "trn_pdf_date": "31/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "CIK NOR ASLINDA BINTI SHAARI",
+      "trn_pdf_ner": "CIK NOR ASLINDA BINTI SHAARI",
+      "trn_pdf_CR_Amount": "",
+      "trn_pdf_DR_Amount": "390.00",
+      "trn_pdf_statementBalance": "31.86"
+    },
+    {
+      "trn_pdf_date": "31/07/24",
+      "trn_pdf_description": "HIBAH PAID",
+      "trn_pdf_description_others": "2407221247270217 ETIQA GENERAL TAKAFU Sc AQILAH SOFEA BINTI AMINUDDIN 2G101IREG D4191762 EGTB - SHAREHOLDERS FU Share AZZELINDA BINTI AKBARI",
+      "trn_pdf_ner": "",
+      "trn_pdf_CR_Amount": ".03",
+      "trn_pdf_DR_Amount": "",
+      "trn_pdf_statementBalance": "31.86"
+    }
+  ]
+}
+
+[INFO] Extracted 28 transactions.

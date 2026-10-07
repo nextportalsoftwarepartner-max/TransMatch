@@ -1,0 +1,23 @@
+{
+  // Use your virtual environment
+  "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python.exe",
+
+  // Exclude unnecessary files/folders from analysis
+  "python.analysis.exclude": [
+    "**/site-packages/pandas/tests",
+    "**/site-packages/*/tests",
+    "**/__pycache__",
+    "**/.pytest_cache"
+  ],
+
+  // IntelliSense & type checking
+  "python.analysis.completeFunctionParens": true,
+  "python.analysis.typeCheckingMode": "basic",
+
+  // Linting & formatting
+  "python.linting.enabled": true,
+  "python.formatting.provider": "black"
+
+  "python.linting.flake8Args": ["--max-line-length=120"]
+
+}

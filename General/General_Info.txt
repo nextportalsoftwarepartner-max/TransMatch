@@ -1,0 +1,138 @@
+/*====== Check Code with Flake8 ======*/
+flake8 your_script.py
+flake8 D:\CHIANWEILON\Software_Dev\TransMatch\Development\TransMatch_ExportPDF.py
+
+/*====== Automatically Fix Issues with autopep8 ======*/
+autopep8 --in-place --aggressive --aggressive D:\CHIANWEILON\Software_Dev\TransMatch\Development\TransMatch_ExportPDF.py
+
+/*====== Next Portal Software Partner Gmail ======*/
+nextportalsoftwarepartner@gmail.com
+@@Np1001
+
+/*====== Gmail (Company) ======*/
+nextportalsoftw1arepartner@invoice-management-system-teal-eight.vercel.app
+@@Np1001
+
+/*====== Zip ======*/
+@@TM001
+
+/*====== Ocrolus ======*/
+nextportalsoftwarepartner@gmail.com
+@@Np100111
+
+/*====== GIT ======*/
+username: nextportalsoftwarepartner-max
+Email: nextportalsoftwarepartner@gmail.com
+One-Time Code: FA89-AD9D
+
+/*====== supabase ======*/
+Login: nextportalsoftwarepartner@gmail.com
+project name: TransMatch
+Database Password: @@TransMatch1001
+
+Connection String-Direct connection
+postgresql://postgres:[YOUR-PASSWORD]@db.bvwodaweovqqtobftdby.supabase.co:5432/postgres
+
+/*====== Alan Chian's Ledger ======*/
+Link: https://invoice-management-system-teal-eight.vercel.app
+Username: alanchian@gmail.com 
+Password: @@Alan6827
+
+
+/*====== TransMatch Next Portal Software Partner [Gmail] ======*/
+Email Address: transmatch.support@gmail.com
+Password: @@TransMatch1001
+
+/*====== TransMatch Next Portal Software Partner [Github] ======*/
+Username: transmatchsupport
+Password: @@TransMatch1001
+
+/*====== TransMatch Next Portal Software Partner [Supabase] ======*/
+Username: transmatchsupport
+Password: @@TransMatch1001
+
+/*====== Start Environment ======*/
+cd D:\CHIANWEILON\Software_Dev\TransMatch\Development\Source_Code
+venv/Scripts/activate
+cd TransMatch
+python login_screen.py
+
+python pdf_processor.py
+python TransMatch_main.py
+
+
+# Kill any running instances
+# Remove old artifacts
+cd D:\CHIANWEILON\Software_Dev\TransMatch\Development\Source_Code\TransMatch
+taskkill /f /im TransMatch.exe
+Remove-Item -Recurse -Force .\build\
+Remove-Item -Recurse -Force .\dist\
+python build_and_package.py
+
+pyinstaller TransMatch.spec --clean --noconfirm
+
+
+
+# check is the DB blocking
+SELECT datname,pid, usename, state, query, wait_event_type, wait_event 
+FROM pg_stat_activity 
+WHERE datname = 'postgres';
+
+# Release blocking
+SELECT pg_terminate_backend(pid)
+FROM pg_stat_activity
+WHERE pid IN (126349, 126512, 127661);
+
+
+
+##################### commit to GITHUB
+create a python file for me to easily run for below item:
+# 1. Navigate to your project
+cd "D:\CHIANWEILON\Software_Dev\TransMatch\Development\Source_Code\TransMatch"
+git status
+git branch
+
+#2. Add Python source files
+git add *.py
+git add -f TransMatch.spec
+git add *.bat
+git add *.png
+git add *.gif
+
+# Add source code folders
+git add administration/
+git add transaction/
+git add report/
+git add ui/
+git add templates/
+
+# Add .gitignore
+git add .gitignore
+
+# Add other important files if needed
+git add PDF_Sample/ 
+
+3. Verify what you're adding
+git status
+
+4. Commit your changes
+git commit -m "Add TransMatch source code - all modules and components"
+
+5. Push to GitHub (main)
+git push -u origin main
+
+6. Push to GitHub (master)
+git branch -M master
+git push -u origin master
+
+
+
+##To strat up App Mobile Simulation
+cd D:\CHIANWEILON\Software_Dev\Urban_Childhood\Source_Code;
+npm install
+npx expo install --fix
+npx expo start --clear
+
+## To fix warning 
+npm audit
+npm audit fix

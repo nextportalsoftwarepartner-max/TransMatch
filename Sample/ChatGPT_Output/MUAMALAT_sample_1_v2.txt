@@ -1,0 +1,269 @@
+[INFO] Trying full PDF upload...
+{
+  "Document Info": {
+    "Bank Name": "Bank Muamalat",
+    "Bank Registration No": "",
+    "Bank Address": "G-1, 2 & 3, GROUND FLOOR, KOMPLEKS PKNS, 40000, SHAH ALAM, SELANGOR",
+    "Customer Code": "",
+    "Customer Name": "EZZAFEA AGENCY",
+    "Customer Address": "",
+    "Statement Date": "31/07/2024",
+    "Account Number": "12020002957715"
+  },
+  "Transactions": [
+    {
+      "trn_pdf_date": "4/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "706020500008556 INSURANS REBAN P BUN",
+      "trn_pdf_ner": "INSURANS REBAN P BUN",
+      "trn_pdf_CR_Amount": 1650.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 1711.02
+    },
+    {
+      "trn_pdf_date": "4/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "20240704MBBEMYKL010 AN NAAFI V ENTERPRISE",
+      "trn_pdf_ner": "AN NAAFI V ENTERPRISE",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 650.0,
+      "trn_pdf_statementBalance": 61.02
+    },
+    {
+      "trn_pdf_date": "6/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "ORB03359391 Rtax",
+      "trn_pdf_ner": "Rtax",
+      "trn_pdf_CR_Amount": 7000.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 13022.42
+    },
+    {
+      "trn_pdf_date": "6/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "20240704BMMBMYKL010 AZZELINDA BINTI AKBARI",
+      "trn_pdf_ner": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_CR_Amount": 6000.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 6022.42
+    },
+    {
+      "trn_pdf_date": "6/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "ORM49074667 GI-MSU/2407-01",
+      "trn_pdf_ner": "GI-MSU/2407-01",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 10000.0,
+      "trn_pdf_statementBalance": 22.42
+    },
+    {
+      "trn_pdf_date": "9/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "706028800098031 MANAGEMENT AND SCIENCE UNIVERS",
+      "trn_pdf_ner": "MANAGEMENT AND SCIENCE UNIVERS",
+      "trn_pdf_CR_Amount": 100.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 122.42
+    },
+    {
+      "trn_pdf_date": "9/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "20240706PHBMMYKL010 Fund",
+      "trn_pdf_ner": "Fund",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 100.0,
+      "trn_pdf_statementBalance": 22.42
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "OCB30002487 AZZELINDA BINTI AKBARI",
+      "trn_pdf_ner": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_CR_Amount": 9000.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 9783.37
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "20240706BMMBMYKL010 Reserve",
+      "trn_pdf_ner": "Reserve",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 9000.0,
+      "trn_pdf_statementBalance": 783.37
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "ORM49883189 AZZELINDA BINTI AKBARI",
+      "trn_pdf_ner": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_CR_Amount": 300.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 1083.37
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "706052600190969 Fund",
+      "trn_pdf_ner": "Fund",
+      "trn_pdf_CR_Amount": 4577.4,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 5660.77
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "20240712BIMBMYKL010 AMINUDDIN BIN YUSOF AIZUDDIN",
+      "trn_pdf_ner": "AMINUDDIN BIN YUSOF AIZUDDIN",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 1000.0,
+      "trn_pdf_statementBalance": 4660.77
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "ATM WITHDRAWAL-DEMAN",
+      "trn_pdf_description_others": "ORM59185040 Insuran reban",
+      "trn_pdf_ner": "Insuran reban",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 2140.35,
+      "trn_pdf_statementBalance": 2520.42
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "Direct Debit",
+      "trn_pdf_description_others": "20240712BMMBMYKL010 Ayam gemok enterprise",
+      "trn_pdf_ner": "Ayam gemok enterprise",
+      "trn_pdf_CR_Amount": 2500.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 20.42
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "ORM51758159 ENCIK REZQA BIN HUSIN@ ABDULLA",
+      "trn_pdf_ner": "ENCIK REZQA BIN HUSIN@ ABDULLA",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 100.0,
+      "trn_pdf_statementBalance": 120.42
+    },
+    {
+      "trn_pdf_date": "12/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "706052600284755 Rtax",
+      "trn_pdf_ner": "Rtax",
+      "trn_pdf_CR_Amount": 390.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 405.42
+    },
+    {
+      "trn_pdf_date": "13/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "20240712PBBEMYKL010 AZZELINDA BINTI AKBARI",
+      "trn_pdf_ner": "AZZELINDA BINTI AKBARI",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 100.0,
+      "trn_pdf_statementBalance": 15.42
+    },
+    {
+      "trn_pdf_date": "15/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "OCB20595473 PV2407-137",
+      "trn_pdf_ner": "PV2407-137",
+      "trn_pdf_CR_Amount": 100.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 115.42
+    },
+    {
+      "trn_pdf_date": "17/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "20240713BMMBMYKL010 CF-SME/2407-01",
+      "trn_pdf_ner": "CF-SME/2407-01",
+      "trn_pdf_CR_Amount": 150.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 265.42
+    },
+    {
+      "trn_pdf_date": "17/07/24",
+      "trn_pdf_description": "DR TRF/SAL/MISC/AFT",
+      "trn_pdf_description_others": "ORM52005933 YC CAPITAL SDN BHD",
+      "trn_pdf_ner": "YC CAPITAL SDN BHD",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 51.02,
+      "trn_pdf_statementBalance": 214.4
+    },
+    {
+      "trn_pdf_date": "19/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "DUITNOW TRANSFER 706080700435222 SEMUAMAS RESOURCES SDN BHD",
+      "trn_pdf_ner": "SEMUAMAS RESOURCES SDN BHD",
+      "trn_pdf_CR_Amount": 1100.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 1265.42
+    },
+    {
+      "trn_pdf_date": "19/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "20240719CIBBMYKL010 EL-124916-1001",
+      "trn_pdf_ner": "EL-124916-1001",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 1000.0,
+      "trn_pdf_statementBalance": 265.42
+    },
+    {
+      "trn_pdf_date": "22/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "ORM35011272 E-20230407F00223810",
+      "trn_pdf_ner": "E-20230407F00223810",
+      "trn_pdf_CR_Amount": 189.3,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 355.42
+    },
+    {
+      "trn_pdf_date": "22/07/24",
+      "trn_pdf_description": "FPX DEBIT",
+      "trn_pdf_description_others": "20240719BMMBMYKL010 Fund",
+      "trn_pdf_ner": "Fund",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 190.0,
+      "trn_pdf_statementBalance": 165.42
+    },
+    {
+      "trn_pdf_date": "25/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "706092800130646 AQILAH SOFEA BINTI AMINUDDIN",
+      "trn_pdf_ner": "AQILAH SOFEA BINTI AMINUDDIN",
+      "trn_pdf_CR_Amount": 100.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 355.42
+    },
+    {
+      "trn_pdf_date": "29/07/24",
+      "trn_pdf_description": "CR TFR/SAL/MISC",
+      "trn_pdf_description_others": "20240722BIMBMYKL010 2G101IREG",
+      "trn_pdf_ner": "2G101IREG",
+      "trn_pdf_CR_Amount": 390.0,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 166.12
+    },
+    {
+      "trn_pdf_date": "30/07/24",
+      "trn_pdf_description": "DUITNOW TRANSFER",
+      "trn_pdf_description_others": "ORM81718924 D4191762",
+      "trn_pdf_ner": "D4191762",
+      "trn_pdf_CR_Amount": 0,
+      "trn_pdf_DR_Amount": 355.71,
+      "trn_pdf_statementBalance": 66.12
+    },
+    {
+      "trn_pdf_date": "31/07/24",
+      "trn_pdf_description": "HIBAH PAID",
+      "trn_pdf_description_others": "20240725BMMBMYKL010 ETIQA GENERAL TAKAFU",
+      "trn_pdf_ner": "ETIQA GENERAL TAKAFU",
+      "trn_pdf_CR_Amount": 0.03,
+      "trn_pdf_DR_Amount": 0,
+      "trn_pdf_statementBalance": 31.86
+    }
+  ]
+}
+
+[INFO] Extracted 28 transactions.

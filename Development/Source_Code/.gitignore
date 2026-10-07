@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.env
+database_credentials.json
+
+TransMatch_SQL_Script.txt

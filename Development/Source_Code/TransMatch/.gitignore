@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+log/
+*.log
+*.txt.log
+
+# Debug files
+debug/
+
+# Build artifacts
+*.spec
+*.exe
+*.pkg
+*.toc
+*.html
+warn-*.txt
+xref-*.html
+base_library.zip
+PYZ-*.pyz
+
+# External libraries (should be installed via requirements, not committed)
+ml_libraries/
+poppler/
+tesseract/
+
+# Archive folder
+archive/
+
+# Environment variables
+*.env
+deepseek.env
+
+# Assets (if they're generated)
+assets/
+
+# Test files (optional - uncomment if you don't want to track tests)
+# test*.py
+# TEST_*.py
+
+# PDF samples (optional - uncomment if you don't want to track sample PDFs)
+# PDF_Sample/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*_backup*

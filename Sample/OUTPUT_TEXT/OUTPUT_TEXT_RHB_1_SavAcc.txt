@@ -1,0 +1,661 @@
+Statement Period
+To
+20402700042040
+Beginning Balance as of
+Deposits (Plus)
+Withdraws (Minus)
+Ending Balance as of
+JERRY DISTRIBUTORS SDN BHD
+            79,764.33-
+            78,972.45-
+01 June 2024
+30 June 2024
+Reflex Cash Management
+Deposit Account Summary
+01 June 2024
+30 June 2024
+538,891.88
+22
+8
+538,100.00
+2A, JALAN IKS M3,
+TAMAN IKS MERDEKA,
+BATU BERENDAM
+JERRY DISTRIB
+MELAKA
+TRANSACTION STATEMENT
+Interest Paid (Plus)
+Date
+Branch Description
+Reference 1 /
+Recipient's
+Reference
+Reference 2 /
+Other Payment
+Details
+RefNum
+Amount (DR)
+Amount (CR)
+Balance
+Sender's
+/ Beneficiary's
+Name
+RPP
+INWARD
+INST TRF
+/
+MYCN240606
+529985
+/ DuitNow
+(TJERRY DIST
+00008055
+980
+-
+            33,100.00
+06-06-2024
+            45,872.45-
+JERRY
+DISTRIBUTO
+RS S
+RPP
+INWARD
+INST TRF
+/
+MYCN240606
+276328
+/ DuitNow
+(TJERRY DIST
+00005260
+980
+-
+            68,000.00
+06-06-2024
+            22,127.55+
+JERRY
+DISTRIBUTO
+RS S
+TRADE
+FINANCE
+PYMT
+TCXA548523/ 000/
+00001172
+790
+             1,353.23
+-
+06-06-2024
+            20,774.32+
+TRADE
+FINANCE
+PYMT
+TCXA532948/ 000/
+00001098
+790
+            67,000.00
+-
+06-06-2024
+            46,225.68-
+RPP
+INWARD
+INST TRF
+/
+MYCN240607
+684103
+/ DuitNow
+(TJERRY DIST
+00001043
+980
+-
+            61,500.00
+07-06-2024
+            15,274.32+
+JERRY
+DISTRIBUTO
+RS S
+TRADE
+FINANCE
+PYMT
+TCXA548717/ 000/
+00001282
+790
+             1,232.89
+-
+07-06-2024
+            14,041.43+
+RFLX
+INSTANT
+TRF DR
+24060620089
+5/ MAY 24
+PAYMENT
+/ MAY 24
+PAYMENT
+00001213
+980
+             1,526.40
+-
+07-06-2024
+            12,515.03+
+MOHAMAD
+SYAFIQ BIN
+A
+RFLX
+INSTANT
+TRF DR
+24060727943
+7/ MAY 24
+PAYMENT
+/ FR JERRY
+DISTRIBUTOR
+SDN BHD
+00001193
+980
+             2,304.23
+-
+07-06-2024
+            10,210.80+
+KOH SU
+YEN
+RFLX
+INSTANT
+TRF DR
+24060620089
+6/ MAY 24
+PAYMENT
+/ MAY 24
+PAYMENT
+00000719
+980
+             2,854.65
+-
+07-06-2024
+             7,356.15+
+TEO SIOK
+LIN
+REFLEX-
+PAYROLL
+PYMT
+24060619665
+8/
+/ 8
+00000736
+102
+            26,387.35
+-
+07-06-2024
+            19,031.20-
+24060619665
+8
+TRADE
+FINANCE
+PYMT
+TCXA533023/ 000/
+00001240
+790
+            60,000.00
+-
+07-06-2024
+            79,031.20-
+RPP
+INWARD
+INST TRF
+/
+MYCN240612
+819657
+/ DuitNow
+(TJERRY DIST
+00002948
+980
+-
+            51,000.00
+12-06-2024
+            28,031.20-
+JERRY
+DISTRIBUTO
+RS S
+www.rhbgroup.com
+For Any Enquiries please call 603-92068118
+
+Statement Period
+To
+20402700042040
+Beginning Balance as of
+Deposits (Plus)
+Withdraws (Minus)
+Ending Balance as of
+JERRY DISTRIBUTORS SDN BHD
+            79,764.33-
+            78,972.45-
+01 June 2024
+30 June 2024
+Reflex Cash Management
+Deposit Account Summary
+01 June 2024
+30 June 2024
+538,891.88
+22
+8
+538,100.00
+2A, JALAN IKS M3,
+TAMAN IKS MERDEKA,
+BATU BERENDAM
+JERRY DISTRIB
+MELAKA
+TRANSACTION STATEMENT
+Interest Paid (Plus)
+Date
+Branch Description
+Reference 1 /
+Recipient's
+Reference
+Reference 2 /
+Other Payment
+Details
+RefNum
+Amount (DR)
+Amount (CR)
+Balance
+Sender's
+/ Beneficiary's
+Name
+RPP
+INWARD
+INST TRF
+/
+MYCN240606
+529985
+/ DuitNow
+(TJERRY DIST
+00008055
+980
+-
+            33,100.00
+06-06-2024
+            45,872.45-
+JERRY
+DISTRIBUTO
+RS S
+RPP
+INWARD
+INST TRF
+/
+MYCN240606
+276328
+/ DuitNow
+(TJERRY DIST
+00005260
+980
+-
+            68,000.00
+06-06-2024
+            22,127.55+
+JERRY
+DISTRIBUTO
+RS S
+TRADE
+FINANCE
+PYMT
+TCXA548523/ 000/
+00001172
+790
+             1,353.23
+-
+06-06-2024
+            20,774.32+
+TRADE
+FINANCE
+PYMT
+TCXA532948/ 000/
+00001098
+790
+            67,000.00
+-
+06-06-2024
+            46,225.68-
+RPP
+INWARD
+INST TRF
+/
+MYCN240607
+684103
+/ DuitNow
+(TJERRY DIST
+00001043
+980
+-
+            61,500.00
+07-06-2024
+            15,274.32+
+JERRY
+DISTRIBUTO
+RS S
+TRADE
+FINANCE
+PYMT
+TCXA548717/ 000/
+00001282
+790
+             1,232.89
+-
+07-06-2024
+            14,041.43+
+RFLX
+INSTANT
+TRF DR
+24060620089
+5/ MAY 24
+PAYMENT
+/ MAY 24
+PAYMENT
+00001213
+980
+             1,526.40
+-
+07-06-2024
+            12,515.03+
+MOHAMAD
+SYAFIQ BIN
+A
+RFLX
+INSTANT
+TRF DR
+24060727943
+7/ MAY 24
+PAYMENT
+/ FR JERRY
+DISTRIBUTOR
+SDN BHD
+00001193
+980
+             2,304.23
+-
+07-06-2024
+            10,210.80+
+KOH SU
+YEN
+RFLX
+INSTANT
+TRF DR
+24060620089
+6/ MAY 24
+PAYMENT
+/ MAY 24
+PAYMENT
+00000719
+980
+             2,854.65
+-
+07-06-2024
+             7,356.15+
+TEO SIOK
+LIN
+REFLEX-
+PAYROLL
+PYMT
+24060619665
+8/
+/ 8
+00000736
+102
+            26,387.35
+-
+07-06-2024
+            19,031.20-
+24060619665
+8
+TRADE
+FINANCE
+PYMT
+TCXA533023/ 000/
+00001240
+790
+            60,000.00
+-
+07-06-2024
+            79,031.20-
+RPP
+INWARD
+INST TRF
+/
+MYCN240612
+819657
+/ DuitNow
+(TJERRY DIST
+00002948
+980
+-
+            51,000.00
+12-06-2024
+            28,031.20-
+JERRY
+DISTRIBUTO
+RS S
+www.rhbgroup.com
+For Any Enquiries please call 603-92068118
+
+Date
+Branch Description
+Reference 1 /
+Recipient's
+Reference
+Reference 2 /
+Other Payment
+Details
+RefNum
+Amount (DR)
+Amount (CR)
+Balance
+Sender's
+/ Beneficiary's
+Name
+TRADE
+FINANCE
+PYMT
+TCXA549246/ 000/
+00001679
+790
+             1,029.70
+-
+12-06-2024
+            29,060.90-
+TRADE
+FINANCE
+PYMT
+TCXA533096/ 000/
+00001604
+790
+            50,000.00
+-
+12-06-2024
+            79,060.90-
+RPP
+INWARD
+INST TRF
+/
+MYCN240619
+611933
+/ DuitNow
+(TJERRY DIST
+00005451
+980
+-
+            61,000.00
+19-06-2024
+            18,060.90-
+JERRY
+DISTRIBUTO
+RS S
+TRADE
+FINANCE
+PYMT
+TCXA550061/ 000/
+00002256
+790
+             1,244.91
+-
+19-06-2024
+            19,305.81-
+TRADE
+FINANCE
+PYMT
+TCXA533875/ 000/
+00002180
+790
+            60,000.00
+-
+19-06-2024
+            79,305.81-
+RPP
+INWARD
+INST TRF
+/
+MYCN240621
+755858
+/ DuitNow
+(TJERRY DIST
+00002602
+980
+-
+            66,500.00
+21-06-2024
+            12,805.81-
+JERRY
+DISTRIBUTO
+RS S
+TRADE
+FINANCE
+PYMT
+TCXA550524/ 000/
+00002542
+790
+             1,349.86
+-
+21-06-2024
+            14,155.67-
+TRADE
+FINANCE
+PYMT
+TCXA534225/ 000/
+00002448
+790
+            65,000.00
+-
+21-06-2024
+            79,155.67-
+RPP
+INWARD
+INST TRF
+/
+MYCN240624
+894050
+/ DuitNow
+(TJERRY DIST
+00005603
+980
+-
+            61,500.00
+24-06-2024
+            17,655.67-
+JERRY
+DISTRIBUTO
+RS S
+TRADE
+FINANCE
+PYMT
+TCXA550747/ 000/
+00002671
+790
+             1,255.17
+-
+24-06-2024
+            18,910.84-
+TRADE
+FINANCE
+PYMT
+TCXA534423/ 000/
+00002610
+790
+            60,000.00
+-
+24-06-2024
+            78,910.84-
+RPP
+INWARD
+INST TRF
+/
+MYCN240626
+214680
+/ DuitNow
+(TJERRY DIST
+00006212
+980
+-
+           135,500.00
+26-06-2024
+            56,589.16+
+JERRY
+DISTRIBUTO
+RS S
+TRADE
+FINANCE
+PYMT
+TCXA551142/ 000/
+00002972
+790
+             1,371.22
+-
+26-06-2024
+            55,217.94+
+TRADE
+FINANCE
+PYMT
+TCXA551153/ 000/
+00002976
+790
+             1,392.56
+-
+26-06-2024
+            53,825.38+
+TRADE
+FINANCE
+PYMT
+TCXA534896/ 000/
+00002898
+790
+            50,000.00
+-
+26-06-2024
+             3,825.38+
+TRADE
+FINANCE
+PYMT
+TCXA535205/ 000/
+00002898
+790
+            83,000.00
+-
+26-06-2024
+            79,174.62-
+COMMITME
+NT FEE
+CHARG
+/
+/
+00000000
+102
+                 1.65
+-
+30-06-2024
+            79,176.27-
+INTEREST
+CHARGED
+/
+/
+00000000
+102
+               588.06
+-
+30-06-2024
+            79,764.33-
+www.rhbgroup.com
+For Any Enquiries please call 603-92068118
+

@@ -1,0 +1,136 @@
+URUSNIAGA AKAUN/ 戶口進支項/ACCOUNT TRANSACTIONS
+TARIKH MASUK
+TARIKH NILAI
+BUTIR URUSNIAGA
+JUMLAH URUSNIAGA
+BAKI PENYATA
+進支日期
+仄過賬日期
+進支項說明
+银碼
+結單存餘
+ENTRY DATE
+VALUE DATE
+TRANSACTION DESCRIPTION
+TRANSACTION AMOUNT
+STATEMENT BALANCE
+BEGINNING BALANCE
+7,386.73
+02/12
+TRANSFER FR A/C
+220.00-
+7,166.73
+   JAGIR SINGH ENTERPR*
+   Rawang roro
+   MBB CT
+02/12
+TRANSFER FR A/C
+3,000.00-
+4,166.73
+   YAP CHEIN PHANG    *
+   Petty
+02/12
+TRANSFER TO A/C
+6,500.00+
+10,666.73
+   CHENG SIAU PING    *
+   final payment
+03/12
+TRANSFER TO A/C
+760.00+
+11,426.73
+   CHIENG HOCK KIET   *
+   Exhaust fan
+   4 no x 190 rm
+03/12
+TRANSFER TO A/C
+598.00+
+12,024.73
+   CHIENG HOCK KIET   *
+   Joven water he
+03/12
+TRANSFER TO A/C
+6,448.00+
+18,472.73
+   CHIENG HOCK KIET   *
+   2 worker salar
+   Nov month
+03/12
+TRANSFER FR A/C
+485.00-
+17,987.73
+   WIN DRAGON HARDWARE*
+   Gapi material
+   MBB CT
+03/12
+TRANSFER FR A/C
+3,000.00-
+14,987.73
+   YAP CHEIN PHANG    *
+   Petty
+04/12
+TRANSFER FR A/C
+322.50-
+14,665.23
+   MR. PAINT SHOP (PUC*
+   Idaman
+04/12
+TRANSFER FR A/C
+1,500.00-
+13,165.23
+   JENAS MAHMUD JAHIRU*
+   Advance
+   MBB CT
+Maybank Islamic Berhad (787435-M)
+15th Floor, Tower A, Dataran Maybank, 1, Jalan Maarof, 59000 Kuala Lumpur.
+IBS PUCHONG JAYA
+ZANHERN BUILDER SDN. BHD.
+NO 23 JALAN TEMPUA 2 ,BANDAR PUCHONG
+JAYA ,PUCHONG ,47170 ,SELANGOR ,MYS
+MUKA/ 頁/PAGE
+:
+1
+TARIKH PENYATA
+結單日期
+STATEMENT DATE
+:
+31/12/24
+NOMBOR AKAUN
+戶號
+ACCOUNT
+NUMBER
+:
+562348586303
+PROTECTED BY PIDM UP TO RM250,000 FOR EACH DEPOSITOR
+SME FIRST ACCOUNT -I
+BAKI LEGAR
+=
+BAKI AKHIR - CEK BELUM JELAS
+可應用存餘
+=
+截止結餘減未過賬仄
+LEDGER
+BALANCE
+=
+ENDING BALANCE - UNCLEARED CHEQUES
+Perhatian / Note
+(1)
+Semua maklumat dan baki yang dinyatakan di sini akan dianggap betul
+melainkan Bank telah dimaklumkan secara bertulis tentang sebarang
+ketidaktepatan dalam tempoh 21 hari.
+若银行在21天内未获得书面通知于任何差异，所有显示的账项及
+余额将被视为正确。
+All items and balances shown will be considered correct unless the Bank is
+notified in writing of any discrepancies within 21 days.
+(2)
+Sila beritahu kami sebarang pertukaran alamat secara bertulis.
+請通知本行在何地址更换。
+Please notify us of any change of address in writing.
+Wang yang keluar berlebihan
+ditandakan dengan DR
+本欄内誌DR者爲結欠
+Overdrawn balances are
+denoted by DR
+PROTECTED BY PIDM UP TO RM250,000 FOR EACH DEPOSITOR*
+NOT PROTECTED BY PIDM
+*Applicable for PA-i minor and in-trust only.
