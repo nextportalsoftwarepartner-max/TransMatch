@@ -1,0 +1,38 @@
+{
+  "name": "@transmatch/extraction",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bank statement PDF extraction: text engines, bank parsers and target-name extraction",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "dev": "tsc -p tsconfig.build.json --watch --preserveWatchOutput",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "parity": "tsx parity/compare.ts"
+  },
+  "dependencies": {
+    "mupdf": "^1.28.1",
+    "tesseract.js": "^7.0.0"
+  },
+  "optionalDependencies": {
+    "@huggingface/transformers": "^4.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.2"
+  }
+}

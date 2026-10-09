@@ -1,0 +1,27 @@
+{
+  "name": "transmatch-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TransMatch web system: Next.js + NestJS in a pnpm workspace",
+  "type": "module",
+  "packageManager": "pnpm@10.34.6",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "pnpm -r build",
+    "build:packages": "pnpm --filter \"./packages/*\" build",
+    "dev": "pnpm build:packages && pnpm --parallel --filter \"./apps/*\" dev",
+    "dev:api": "pnpm build:packages && pnpm --filter @transmatch/api dev",
+    "dev:web": "pnpm --filter @transmatch/web dev",
+    "start": "pnpm --parallel --filter \"./apps/*\" start",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck",
+    "format": "prettier --write \"apps/*/src/**/*.{ts,tsx}\" \"packages/*/src/**/*.ts\"",
+    "db:migrate": "pnpm --filter @transmatch/api db:migrate"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "typescript": "^6.0.2"
+  }
+}

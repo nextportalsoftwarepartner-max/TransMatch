@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-brand: #00042e;
+  --color-brand-soft: #1b2466;
+  --color-accent: #2563eb;
+  --color-accent-hover: #1d4ed8;
+  --font-sans: "Segoe UI", system-ui, -apple-system, Arial, sans-serif;
+  --font-mono: ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: #f1f3f8;
+  color: #1f2937;
+  font-family: var(--font-sans);
+}

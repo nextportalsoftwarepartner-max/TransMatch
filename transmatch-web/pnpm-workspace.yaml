@@ -1,0 +1,12 @@
+packages:
+  - apps/*
+  - packages/*
+
+# Install scripts that are not needed (prebuilt binaries are used)
+ignoredBuiltDependencies:
+  - esbuild
+  - onnxruntime-node
+  - protobufjs
+  - sharp
+  - tesseract.js
+  - unrs-resolver
